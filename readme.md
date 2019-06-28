@@ -1,1 +1,4 @@
-vscode插件setting-sync所需token:947a143abf72cc420ab805a16b6c09be43a4cbaa
+vscode插件setting-sync所需
+access-token:4af306dc75d3c158d59ec903918c693682d38c10
+GistId:5bcf89513821961a82458bf716b7dc7e
+
