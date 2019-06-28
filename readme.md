@@ -1,4 +1,4 @@
 vscode插件setting-sync所需
-access-token:4af306dc75d3c158d59ec903918c693682d38c10
-GistId:5bcf89513821961a82458bf716b7dc7e
+access-token:a079e557b3ac6576259cd21693fdce43d0cf26f0
+GistId:57b610246d6ce664cc209cd11f9a582e
 
